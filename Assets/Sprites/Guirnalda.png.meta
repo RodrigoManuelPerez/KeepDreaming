@@ -1,0 +1,631 @@
+fileFormatVersion: 2
+guid: 1cfa427ec85866c4eb200a2b1eaca207
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5878574387660639625
+    second: Guirnalda_0
+  - first:
+      213: 1767860774619812063
+    second: Guirnalda_1
+  - first:
+      213: -1697883962546535418
+    second: Guirnalda_2
+  - first:
+      213: 8463853933424890644
+    second: Guirnalda_3
+  - first:
+      213: 7937111337604256241
+    second: Guirnalda_4
+  - first:
+      213: 1434776639089429062
+    second: Guirnalda_5
+  - first:
+      213: 2018733885899590789
+    second: Guirnalda_6
+  - first:
+      213: -4431565179584479348
+    second: Guirnalda_7
+  - first:
+      213: -3556460145525806589
+    second: Guirnalda_8
+  - first:
+      213: -6482778687641622763
+    second: Guirnalda_9
+  - first:
+      213: 6396173904908019460
+    second: Guirnalda_10
+  - first:
+      213: 4965649470230128386
+    second: Guirnalda_11
+  - first:
+      213: -6187429752630827067
+    second: Guirnalda_12
+  - first:
+      213: -928772973253983958
+    second: Guirnalda_13
+  - first:
+      213: -3789116886263044569
+    second: Guirnalda_14
+  - first:
+      213: 5370469975200073667
+    second: Guirnalda_15
+  - first:
+      213: 1112166625511994668
+    second: Guirnalda_16
+  - first:
+      213: -5008162946199637833
+    second: Guirnalda_17
+  - first:
+      213: 1874834438122260178
+    second: Guirnalda_18
+  - first:
+      213: -8645762927349784398
+    second: Guirnalda_19
+  - first:
+      213: -7896000176440762178
+    second: Guirnalda_20
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Guirnalda_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77237cd8dbb1b6ea0800000000000000
+      internalID: -5878574387660639625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_1
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 2280
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd09f8b0204b88810800000000000000
+      internalID: 1767860774619812063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_2
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 2280
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 604c4962887ef68e0800000000000000
+      internalID: -1697883962546535418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_3
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 2280
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413559c1f46a57570800000000000000
+      internalID: 8463853933424890644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_4
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 2280
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f190ac75b8462e60800000000000000
+      internalID: 7937111337604256241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1710
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a44f060c959e310800000000000000
+      internalID: 1434776639089429062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_6
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1710
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58cc61506cbf30c10800000000000000
+      internalID: 2018733885899590789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_7
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1710
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f70e7d2faef72c0800000000000000
+      internalID: -4431565179584479348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_8
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1710
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa910375ae4aec0800000000000000
+      internalID: -3556460145525806589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_9
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1710
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517e5ad712b8806a0800000000000000
+      internalID: -6482778687641622763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1140
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4076aa33746c3c850800000000000000
+      internalID: 6396173904908019460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_11
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 1140
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2076c2052e789e440800000000000000
+      internalID: 4965649470230128386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_12
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 1140
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7a1c12c65d12aa0800000000000000
+      internalID: -6187429752630827067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_13
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 1140
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a218634d6e55c13f0800000000000000
+      internalID: -928772973253983958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_14
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 1140
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7266bdd744a5a6bc0800000000000000
+      internalID: -3789116886263044569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 570
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c783bc0dfdb78a40800000000000000
+      internalID: 5370469975200073667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_16
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 570
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25ffa447a53f6f00800000000000000
+      internalID: 1112166625511994668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_17
+      rect:
+        serializedVersion: 2
+        x: 1620
+        y: 570
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b03f76b55e6f7ab0800000000000000
+      internalID: -5008162946199637833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_18
+      rect:
+        serializedVersion: 2
+        x: 2430
+        y: 570
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d642f8fcffb40a10800000000000000
+      internalID: 1874834438122260178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_19
+      rect:
+        serializedVersion: 2
+        x: 3240
+        y: 570
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b0231fbc64140880800000000000000
+      internalID: -8645762927349784398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guirnalda_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 810
+        height: 570
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb0a3d0aca5cb6290800000000000000
+      internalID: -7896000176440762178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
