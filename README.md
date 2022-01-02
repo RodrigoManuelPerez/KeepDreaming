@@ -2,7 +2,7 @@
 
 This repo is to store the project of Keep Dreaming, a unity game made in 40h for the Wholesome GameJam of Wholesome Games.
 
-All the code (aside from Unity&#39;s) for this project was written by me and most of the integration of any other asset, as well as the post-processing effects.
+All the code (aside from Unity&#39;s) for this project was written by me within the 40h and most of the integration of any other asset, as well as the post-processing effects.
 
 **Game info**
 
